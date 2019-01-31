@@ -8,7 +8,7 @@
     "php": ">=7.1",
     "spryker-shop/discount-promotion-widget": "^1.2.2",
     "spryker-shop/discount-widget": "^1.1.3",
-    "spryker/discount": "^7.1.1",
+    "spryker/discount": "^7.0.0",
     "spryker/discount-promotion": "^1.1.5",
     "spryker/product-label": "^2.5.2",
     "spryker/product-label-collector": "^1.1.2",
