@@ -14,5 +14,10 @@
     "spryker/product-label-collector": "^1.1.2",
     "spryker/product-label-storage": "^1.2.0",
     "spryker/product-new": "^1.1.4"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
