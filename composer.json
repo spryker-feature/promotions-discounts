@@ -9,7 +9,7 @@
     "php": ">=7.1",
     "spryker-shop/cart-code-widget": "^1.0.0",
     "spryker-shop/discount-promotion-widget": "^3.0.0",
-    "spryker-shop/discount-widget": "^1.2.0",
+    "spryker-shop/discount-widget": "^1.4.0",
     "spryker/cart-code": "^1.0.0",
     "spryker/discount": "^9.0.0",
     "spryker/discount-promotion": "^3.0.0",
