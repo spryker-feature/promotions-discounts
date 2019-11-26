@@ -12,7 +12,7 @@
     "spryker-shop/discount-widget": "^1.4.0",
     "spryker/cart-code": "^1.0.0",
     "spryker/discount": "^9.2.0",
-    "spryker/discount-promotion": "^3.1.0",
+    "spryker/discount-promotion": "^4.0.0",
     "spryker/product-label": "^2.5.2",
     "spryker/product-label-storage": "^1.4.0",
     "spryker/product-new": "^1.1.4"
