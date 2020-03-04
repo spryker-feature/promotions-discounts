@@ -7,3 +7,16 @@ With the Promotions and Discounts feature, you can define several types of disco
 ```
 composer require spryker-feature/promotions-discounts
 ```
+
+## Optional modules
+- [CartCodeExtension ^1.0.0](https://github.com/spryker/cart-code-extension) (Extension)
+- [CartCodesRestApi ^1.0.0](https://github.com/spryker/cart-codes-rest-api) (Glue)
+- [CustomerGroupDiscountConnector ^2.1.1](https://github.com/spryker/customer-group-discount-connector) (Connector)
+- [DiscountCalculationConnector ^5.0.3](https://github.com/spryker/discount-calculation-connector) (Connector)
+- [DiscountPromotionsRestApi ^1.0.0](https://github.com/spryker/discount-promotions-rest-api) (Glue)
+- [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
+- [ProductDiscountConnector ^5.0.0](https://github.com/spryker/product-discount-connector) (Connector)
+- [ProductLabelCollector ^1.1.2](https://github.com/spryker/product-label-collector) (Collector)
+- [ProductLabelDiscountConnector ^3.0.0](https://github.com/spryker/product-label-discount-connector) (Connector)
+- [ProductLabelsRestApi](https://github.com/spryker/product-labels-rest-api) (Glue)
+- [ShipmentDiscountConnector ^4.0.0](https://github.com/spryker/shipment-discount-connector) (Connector)
