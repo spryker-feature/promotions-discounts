@@ -1,22 +1,22 @@
 {
-  "name": "spryker-feature/promotions-discounts",
-  "description": "Promotions & Discounts [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/cart-code-widget": "^1.4.0",
-    "spryker-shop/discount-promotion-widget": "^3.2.0",
-    "spryker-shop/discount-widget": "^1.7.0",
-    "spryker/cart-code": "^1.2.0",
-    "spryker/discount": "^9.10.0",
-    "spryker/discount-promotion": "^4.2.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/promotions-discounts",
+    "description": "Promotions & Discounts [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/cart-code-widget": "^1.4.0",
+        "spryker-shop/discount-promotion-widget": "^3.2.0",
+        "spryker-shop/discount-widget": "^1.7.0",
+        "spryker/cart-code": "^1.2.0",
+        "spryker/discount": "^9.10.0",
+        "spryker/discount-promotion": "^4.2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
