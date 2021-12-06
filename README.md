@@ -12,6 +12,7 @@ composer require spryker-feature/promotions-discounts
 - [CartCodeExtension ^1.1.0](https://github.com/spryker/cart-code-extension) (Extension)
 - [CartCodesRestApi ^1.3.0](https://github.com/spryker/cart-codes-rest-api) (Glue)
 - [CartCodesRestApiExtension ^1.0.0](https://github.com/spryker/cart-codes-rest-api-extension) (Extension)
+- [CategoryDiscountConnector ^1.0.0](https://github.com/spryker/category-discount-connector) (Connector)
 - [CustomerGroupDiscountConnector ^2.1.1](https://github.com/spryker/customer-group-discount-connector) (Connector)
 - [DiscountCalculationConnector ^5.2.0](https://github.com/spryker/discount-calculation-connector) (Connector)
 - [DiscountPromotionsRestApi ^1.3.0](https://github.com/spryker/discount-promotions-rest-api) (Glue)
