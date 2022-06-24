@@ -19,6 +19,7 @@ composer require spryker-feature/promotions-discounts
 - [DiscountsRestApi ^1.0.0](https://github.com/spryker/discounts-rest-api) (Glue)
 - [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
 - [ProductDiscountConnector ^5.0.0](https://github.com/spryker/product-discount-connector) (Connector)
+- [ProductDiscountConnectorExtension ^1.0.0](https://github.com/spryker/product-discount-connector-extension) (Extension)
 - [ProductLabelCollector ^1.1.2](https://github.com/spryker/product-label-collector) (Collector)
 - [ProductLabelDiscountConnector ^3.0.0](https://github.com/spryker/product-label-discount-connector) (Connector)
 - [ProductLabelsRestApi](https://github.com/spryker/product-labels-rest-api) (Glue)
