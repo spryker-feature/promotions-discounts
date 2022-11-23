@@ -6,17 +6,17 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/cart-code-widget": "^1.4.0",
         "spryker-shop/discount-promotion-widget": "^3.5.0",
         "spryker-shop/discount-widget": "^1.8.0",
         "spryker/cart-code": "^1.2.0",
-        "spryker/discount": "^9.25.0",
-        "spryker/discount-promotion": "^4.6.0"
+        "spryker/discount": "^9.28.0",
+        "spryker/discount-promotion": "^4.9.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
