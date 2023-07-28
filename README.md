@@ -2,6 +2,8 @@
 
 With the Promotions and Discounts feature, you can define several types of discounts based on a brand, the overall cart value, certain product ranges or special customer groups. You can also offer discount vouchers or simply incentivize certain products through coupon codes.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/discount-management/202307.0/base-shop/promotions-discounts-feature-overview.html)
+
 ## Installation
 
 ```
