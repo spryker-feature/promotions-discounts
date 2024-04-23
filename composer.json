@@ -11,7 +11,7 @@
         "spryker-shop/discount-promotion-widget": "^3.5.0",
         "spryker-shop/discount-widget": "^1.8.0",
         "spryker/cart-code": "^1.3.0",
-        "spryker/discount": "^9.35.0",
+        "spryker/discount": "^9.36.0",
         "spryker/discount-promotion": "^4.12.0"
     },
     "extra": {
