@@ -25,4 +25,5 @@ composer require spryker-feature/promotions-discounts
 - [ProductLabelCollector ^1.1.2](https://github.com/spryker/product-label-collector) (Collector)
 - [ProductLabelDiscountConnector ^3.1.0](https://github.com/spryker/product-label-discount-connector) (Connector)
 - [ProductLabelsRestApi](https://github.com/spryker/product-labels-rest-api) (Legacy Glue)
+- [SalesDiscountConnector ^1.0.0](https://github.com/spryker/sales-discount-connector) (Connector)
 - [ShipmentDiscountConnector ^4.0.0](https://github.com/spryker/shipment-discount-connector) (Connector)
