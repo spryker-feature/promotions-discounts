@@ -12,12 +12,12 @@ composer require spryker-feature/promotions-discounts
 
 ## Optional modules
 - [CartCodeExtension ^1.2.0](https://github.com/spryker/cart-code-extension) (Extension)
-- [CartCodesRestApi ^1.5.0](https://github.com/spryker/cart-codes-rest-api) (Legacy Glue)
+- [CartCodesRestApi ^1.6.0](https://github.com/spryker/cart-codes-rest-api) (Legacy Glue)
 - [CartCodesRestApiExtension ^1.0.0](https://github.com/spryker/cart-codes-rest-api-extension) (Extension)
-- [CategoryDiscountConnector ^1.3.0](https://github.com/spryker/category-discount-connector) (Connector)
+- [CategoryDiscountConnector ^1.4.0](https://github.com/spryker/category-discount-connector) (Connector)
 - [CustomerGroupDiscountConnector ^2.2.0](https://github.com/spryker/customer-group-discount-connector) (Connector)
 - [DiscountCalculationConnector ^5.4.0](https://github.com/spryker/discount-calculation-connector) (Connector)
-- [DiscountPromotionsRestApi ^1.4.0](https://github.com/spryker/discount-promotions-rest-api) (Legacy Glue)
+- [DiscountPromotionsRestApi ^1.5.0](https://github.com/spryker/discount-promotions-rest-api) (Legacy Glue)
 - [DiscountsRestApi ^1.0.0](https://github.com/spryker/discounts-rest-api) (Legacy Glue)
 - [OmsDiscountConnector ^3.0.3](https://github.com/spryker/oms-discount-connector) (Connector)
 - [ProductDiscountConnector ^5.3.0](https://github.com/spryker/product-discount-connector) (Connector)
