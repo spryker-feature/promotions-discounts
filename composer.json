@@ -11,12 +11,12 @@
         "spryker-shop/discount-promotion-widget": "^3.8.0",
         "spryker-shop/discount-widget": "^1.10.0",
         "spryker/cart-code": "^1.4.0",
-        "spryker/discount": "^9.53.0",
-        "spryker/discount-promotion": "^4.16.0"
+        "spryker/discount": "^9.57.0",
+        "spryker/discount-promotion": "^4.17.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     }
 }
